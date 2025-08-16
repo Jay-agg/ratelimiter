@@ -1,4 +1,4 @@
-#Simple Rate Limiter in Go
+# Simple Rate Limiter in Go
 
 This is a simple rate limiter implementation in Go that limits API requests using a token bucket algorithm.
 
